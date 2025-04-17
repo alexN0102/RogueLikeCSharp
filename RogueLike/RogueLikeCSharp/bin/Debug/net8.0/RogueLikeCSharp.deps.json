@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RogueLikeCSharp/1.0.0": {
+        "dependencies": {
+          "OpenTK": "1.1.2225",
+          "RLNET": "1.0.6",
+          "RogueSharp": "3.0.0"
+        },
+        "runtime": {
+          "RogueLikeCSharp.dll": {}
+        }
+      },
+      "OpenTK/1.1.2225": {
+        "runtime": {
+          "lib/net20/OpenTK.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.2225.0"
+          }
+        }
+      },
+      "RLNET/1.0.6": {
+        "dependencies": {
+          "OpenTK": "1.1.2225"
+        },
+        "runtime": {
+          "lib/RLNET.dll": {
+            "assemblyVersion": "1.0.6.0",
+            "fileVersion": "1.0.6.0"
+          }
+        }
+      },
+      "RogueSharp/3.0.0": {
+        "runtime": {
+          "lib/portable-net40+sl50+win+wpa81+wp80/RogueSharp.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RogueLikeCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OpenTK/1.1.2225": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LznumONQ+XDP/mVCyqZJtaeu/4sKsrSdBC309CE7TsiKStNU4WaOQDwQ3nS85zsAoZGmsbEzrvbjH3/LibKSug==",
+      "path": "opentk/1.1.2225",
+      "hashPath": "opentk.1.1.2225.nupkg.sha512"
+    },
+    "RLNET/1.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uB0av8QFwSdfQrFCN7a3tk6YDwlQU0SPt3Oh7T7FUzoRwrfRSIF/albeHrlF5ZXN1XsHiUkOz7o9FIZg0plsCg==",
+      "path": "rlnet/1.0.6",
+      "hashPath": "rlnet.1.0.6.nupkg.sha512"
+    },
+    "RogueSharp/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f1Zn6bkgL342FB4yVKO+DcmhL6R9wRCwuY/xZz5zybuQe9FjF3DPWPT33mj9QlNEiakOqJ9NhVmhO+23Ze0fGQ==",
+      "path": "roguesharp/3.0.0",
+      "hashPath": "roguesharp.3.0.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\systems\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\systems\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\core\\dungeonmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\core\\dungeonmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\core\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\core\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\core\\swatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\core\\swatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Systems\\MapGenerator.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Systems\\MapGenerator.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Systems\\MapGenerator.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Systems\\MapGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:25:55.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DungeonMap.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\DungeonMap.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Core\\DungeonMap.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\DungeonMap.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Core\\DungeonMap.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:18:25.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Swatch.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Swatch.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Core\\Swatch.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Swatch.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Core\\Swatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:06:42.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Colors.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Colors.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Core\\Colors.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Colors.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Core\\Colors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:06:31.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Game.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Game.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Game.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:56:32.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
