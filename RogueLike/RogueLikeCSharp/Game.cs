@@ -41,7 +41,7 @@ namespace RogueSharpRLNetSamples
         public static void Main()
         {
             string fontFileName = "terminal8x8.png";
-            string consoleTitle = "RougeSharp RLNet Tutorial - Level 1";
+            string consoleTitle = "Alex's New Game :) - Level 1";
             int seed = (int)DateTime.UtcNow.Ticks;
             Random = new DotNetRandom(seed);
 
@@ -117,7 +117,7 @@ namespace RogueSharpRLNetSamples
                             DungeonMap = mapGenerator.CreateMap();
                             MessageLog = new MessageLog();
                             CommandSystem = new CommandSystem();
-                            _rootConsole.Title = $"RougeSharp RLNet Tutorial - Level {_mapLevel}";
+                            _rootConsole.Title = $"Alex's New Game :) - Level {_mapLevel}";
                             didPlayerAct = true;
                         }
                     }
