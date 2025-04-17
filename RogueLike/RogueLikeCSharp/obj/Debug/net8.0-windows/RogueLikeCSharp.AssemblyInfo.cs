@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RogueLikeCSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b215085fa0592e04b44002fd62301e057676b208")]
 [assembly: System.Reflection.AssemblyProductAttribute("RogueLikeCSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RogueLikeCSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

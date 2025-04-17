@@ -3,24 +3,252 @@
   "WorkspaceRootPath": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\systems\\targetingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\systems\\targetingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\systems\\schedulingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\systems\\schedulingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\systems\\pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\systems\\pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\systems\\messagelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\systems\\messagelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\systems\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\systems\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\systems\\itemgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\systems\\itemgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\systems\\equipmentgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\systems\\equipmentgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\systems\\commandsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\systems\\commandsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\systems\\actorgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\systems\\actorgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\systems\\abilitygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\systems\\abilitygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\monsters\\ooze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\monsters\\ooze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\monsters\\kobold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\monsters\\kobold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\monsters\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\monsters\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\items\\whetstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\items\\whetstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\items\\teleportscroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\items\\teleportscroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\items\\revealmapscroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\items\\revealmapscroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\items\\noitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\items\\noitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\items\\healingpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\items\\healingpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\items\\destructionwand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\items\\destructionwand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\items\\armorscroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\items\\armorscroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\interfaces\\itreasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\interfaces\\itreasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\interfaces\\itargetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\interfaces\\itargetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\interfaces\\ischeduleable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\interfaces\\ischeduleable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\interfaces\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\interfaces\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\interfaces\\iequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\interfaces\\iequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\interfaces\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\interfaces\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\interfaces\\ibehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\interfaces\\ibehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\interfaces\\iactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\interfaces\\iactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\interfaces\\iability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\interfaces\\iability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\equipment\\headequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\equipment\\headequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\equipment\\handequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\equipment\\handequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\equipment\\feetequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\equipment\\feetequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\equipment\\bodyequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\equipment\\bodyequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\core\\treasurepile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\core\\treasurepile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\core\\swatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\core\\swatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\core\\stairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\core\\stairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\core\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\core\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\core\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\core\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\core\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\core\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\core\\gold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\core\\gold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\core\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\core\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\core\\dungeonmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\core\\dungeonmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\core\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\core\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\core\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\core\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\core\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\core\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\core\\swatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\core\\swatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\core\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\core\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\core\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\core\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\behaviors\\standardmoveandattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\behaviors\\standardmoveandattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\behaviors\\splitooze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\behaviors\\splitooze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\behaviors\\shoutforhelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\behaviors\\shoutforhelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\behaviors\\runaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\behaviors\\runaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\behaviors\\fullyheal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\behaviors\\fullyheal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\abilities\\whirlwind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\abilities\\whirlwind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\abilities\\revealmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\abilities\\revealmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\abilities\\magicmissile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\abilities\\magicmissile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\abilities\\lightningbolt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\abilities\\lightningbolt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\abilities\\heal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\abilities\\heal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\abilities\\fireball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\abilities\\fireball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\abilities\\donothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\abilities\\donothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\packages.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\packages.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|c:\\users\\anovelli\\source\\repos\\roguelike\\roguelikecsharp\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{50F38DD1-AE91-4EFD-A713-B1E687AC62F6}|RogueLikeCSharp\\RogueLikeCSharp.csproj|solutionrelative:roguelikecsharp\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +258,812 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "ActorGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Systems\\ActorGenerator.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Systems\\ActorGenerator.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Systems\\ActorGenerator.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Systems\\ActorGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:47:08.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommandSystem.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Systems\\CommandSystem.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Systems\\CommandSystem.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Systems\\CommandSystem.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Systems\\CommandSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:18:38.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EquipmentGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Systems\\EquipmentGenerator.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Systems\\EquipmentGenerator.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Systems\\EquipmentGenerator.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Systems\\EquipmentGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:48:10.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Systems\\ItemGenerator.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Systems\\ItemGenerator.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Systems\\ItemGenerator.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Systems\\ItemGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:48:35.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MapGenerator.cs",
               "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Systems\\MapGenerator.cs",
               "RelativeDocumentMoniker": "RogueLikeCSharp\\Systems\\MapGenerator.cs",
               "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Systems\\MapGenerator.cs",
               "RelativeToolTip": "RogueLikeCSharp\\Systems\\MapGenerator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQBAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T13:25:55.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DungeonMap.cs",
-              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\DungeonMap.cs",
-              "RelativeDocumentMoniker": "RogueLikeCSharp\\Core\\DungeonMap.cs",
-              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\DungeonMap.cs",
-              "RelativeToolTip": "RogueLikeCSharp\\Core\\DungeonMap.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwDIAAABZAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "MessageLog.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Systems\\MessageLog.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Systems\\MessageLog.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Systems\\MessageLog.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Systems\\MessageLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T13:18:25.835Z",
+              "WhenOpened": "2025-04-17T15:01:55.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "Pool.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Systems\\Pool.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Systems\\Pool.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Systems\\Pool.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Systems\\Pool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:49:33.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchedulingSystem.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Systems\\SchedulingSystem.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Systems\\SchedulingSystem.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Systems\\SchedulingSystem.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Systems\\SchedulingSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:09:04.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AbilityGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Systems\\AbilityGenerator.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Systems\\AbilityGenerator.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Systems\\AbilityGenerator.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Systems\\AbilityGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:46:45.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TargetingSystem.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Systems\\TargetingSystem.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Systems\\TargetingSystem.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Systems\\TargetingSystem.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Systems\\TargetingSystem.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwFEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:50:26.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Game.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Game.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Game.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:56:32.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ooze.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Monsters\\Ooze.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Monsters\\Ooze.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Monsters\\Ooze.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Monsters\\Ooze.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:44:24.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Kobold.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Monsters\\Kobold.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Monsters\\Kobold.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Monsters\\Kobold.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Monsters\\Kobold.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:02:17.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Goblin.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Monsters\\Goblin.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Monsters\\Goblin.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Monsters\\Goblin.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Monsters\\Goblin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:43:57.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Whetstone.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Items\\Whetstone.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Items\\Whetstone.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Items\\Whetstone.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Items\\Whetstone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:43:23.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TeleportScroll.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Items\\TeleportScroll.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Items\\TeleportScroll.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Items\\TeleportScroll.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Items\\TeleportScroll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:43:01.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RevealMapScroll.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Items\\RevealMapScroll.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Items\\RevealMapScroll.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Items\\RevealMapScroll.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Items\\RevealMapScroll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:42:35.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NoItem.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Items\\NoItem.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Items\\NoItem.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Items\\NoItem.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Items\\NoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:42:13.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HealingPotion.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Items\\HealingPotion.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Items\\HealingPotion.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Items\\HealingPotion.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Items\\HealingPotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:41:51.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DestructionWand.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Items\\DestructionWand.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Items\\DestructionWand.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Items\\DestructionWand.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Items\\DestructionWand.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowFQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:41:22.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ArmorScroll.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Items\\ArmorScroll.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Items\\ArmorScroll.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Items\\ArmorScroll.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Items\\ArmorScroll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:40:59.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ITreasure.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Interfaces\\ITreasure.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Interfaces\\ITreasure.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Interfaces\\ITreasure.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Interfaces\\ITreasure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:40:20.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ITargetable.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Interfaces\\ITargetable.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Interfaces\\ITargetable.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Interfaces\\ITargetable.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Interfaces\\ITargetable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:39:55.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IScheduleable.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Interfaces\\IScheduleable.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Interfaces\\IScheduleable.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Interfaces\\IScheduleable.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Interfaces\\IScheduleable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:08:24.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IItem.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Interfaces\\IItem.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Interfaces\\IItem.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Interfaces\\IItem.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Interfaces\\IItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:39:16.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IEquipment.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Interfaces\\IEquipment.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Interfaces\\IEquipment.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Interfaces\\IEquipment.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Interfaces\\IEquipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:38:52.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IDrawable.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Interfaces\\IDrawable.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Interfaces\\IDrawable.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Interfaces\\IDrawable.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Interfaces\\IDrawable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:46:00.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Interfaces\\IBehavior.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Interfaces\\IBehavior.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Interfaces\\IBehavior.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Interfaces\\IBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:10:21.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IActor.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Interfaces\\IActor.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Interfaces\\IActor.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Interfaces\\IActor.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Interfaces\\IActor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:44:47.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IAbility.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Interfaces\\IAbility.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Interfaces\\IAbility.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Interfaces\\IAbility.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Interfaces\\IAbility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:37:13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HeadEquipment.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Equipment\\HeadEquipment.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Equipment\\HeadEquipment.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Equipment\\HeadEquipment.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Equipment\\HeadEquipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:36:44.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HandEquipment.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Equipment\\HandEquipment.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Equipment\\HandEquipment.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Equipment\\HandEquipment.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Equipment\\HandEquipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:36:19.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FeetEquipment.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Equipment\\FeetEquipment.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Equipment\\FeetEquipment.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Equipment\\FeetEquipment.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Equipment\\FeetEquipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:35:52.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BodyEquipment.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Equipment\\BodyEquipment.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Equipment\\BodyEquipment.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Equipment\\BodyEquipment.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Equipment\\BodyEquipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:35:13.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TreasurePile.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\TreasurePile.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Core\\TreasurePile.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\TreasurePile.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Core\\TreasurePile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:34:17.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "Swatch.cs",
               "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Swatch.cs",
               "RelativeDocumentMoniker": "RogueLikeCSharp\\Core\\Swatch.cs",
               "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Swatch.cs",
               "RelativeToolTip": "RogueLikeCSharp\\Core\\Swatch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T13:06:42.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 36,
+              "Title": "Stairs.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Stairs.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Core\\Stairs.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Stairs.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Core\\Stairs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:02:49.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Player.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Core\\Player.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Player.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Core\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:52:46.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Monster.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Core\\Monster.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Monster.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Core\\Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:01:34.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Item.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Core\\Item.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Item.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Core\\Item.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:32:27.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Gold.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Gold.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Core\\Gold.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Gold.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Core\\Gold.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:32:01.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Equipment.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Core\\Equipment.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Equipment.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Core\\Equipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:31:32.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DungeonMap.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\DungeonMap.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Core\\DungeonMap.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\DungeonMap.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Core\\DungeonMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:18:25.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Door.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Core\\Door.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Door.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Core\\Door.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:51:33.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Direction.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Core\\Direction.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Direction.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Core\\Direction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:11:36.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
               "Title": "Colors.cs",
               "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Colors.cs",
               "RelativeDocumentMoniker": "RogueLikeCSharp\\Core\\Colors.cs",
               "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Colors.cs",
               "RelativeToolTip": "RogueLikeCSharp\\Core\\Colors.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T13:06:31.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Game.cs",
-              "RelativeDocumentMoniker": "RogueLikeCSharp\\Game.cs",
-              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Game.cs",
-              "RelativeToolTip": "RogueLikeCSharp\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 46,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Actor.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Core\\Actor.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Actor.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Core\\Actor.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T10:56:32.379Z",
+              "WhenOpened": "2025-04-17T13:48:10.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Ability.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Ability.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Core\\Ability.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Core\\Ability.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Core\\Ability.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:28:48.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "StandardMoveAndAttack.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Behaviors\\StandardMoveAndAttack.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Behaviors\\StandardMoveAndAttack.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Behaviors\\StandardMoveAndAttack.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Behaviors\\StandardMoveAndAttack.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:11:18.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SplitOoze.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Behaviors\\SplitOoze.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Behaviors\\SplitOoze.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Behaviors\\SplitOoze.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Behaviors\\SplitOoze.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:27:32.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ShoutForHelp.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Behaviors\\ShoutForHelp.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Behaviors\\ShoutForHelp.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Behaviors\\ShoutForHelp.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Behaviors\\ShoutForHelp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:27:02.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RunAway.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Behaviors\\RunAway.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Behaviors\\RunAway.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Behaviors\\RunAway.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Behaviors\\RunAway.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:26:36.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FullyHeal.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Behaviors\\FullyHeal.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Behaviors\\FullyHeal.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Behaviors\\FullyHeal.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Behaviors\\FullyHeal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:26:10.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Whirlwind.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Abilities\\Whirlwind.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Abilities\\Whirlwind.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Abilities\\Whirlwind.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Abilities\\Whirlwind.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:25:32.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RevealMap.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Abilities\\RevealMap.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Abilities\\RevealMap.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Abilities\\RevealMap.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Abilities\\RevealMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:25:08.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "MagicMissile.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Abilities\\MagicMissile.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Abilities\\MagicMissile.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Abilities\\MagicMissile.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Abilities\\MagicMissile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:24:36.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "LightningBolt.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Abilities\\LightningBolt.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Abilities\\LightningBolt.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Abilities\\LightningBolt.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Abilities\\LightningBolt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:24:03.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Heal.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Abilities\\Heal.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Abilities\\Heal.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Abilities\\Heal.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Abilities\\Heal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:23:40.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FireBall.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Abilities\\FireBall.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Abilities\\FireBall.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Abilities\\FireBall.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Abilities\\FireBall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:22:59.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DoNothing.cs",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Abilities\\DoNothing.cs",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\Abilities\\DoNothing.cs",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\Abilities\\DoNothing.cs",
+              "RelativeToolTip": "RogueLikeCSharp\\Abilities\\DoNothing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:22:28.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\packages.config",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\packages.config",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\packages.config",
+              "RelativeToolTip": "RogueLikeCSharp\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-17T18:52:44.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\App.config",
+              "RelativeDocumentMoniker": "RogueLikeCSharp\\App.config",
+              "ToolTip": "C:\\Users\\anovelli\\source\\repos\\RogueLike\\RogueLikeCSharp\\App.config",
+              "RelativeToolTip": "RogueLikeCSharp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-17T18:52:15.018Z",
               "EditorCaption": ""
             }
           ]

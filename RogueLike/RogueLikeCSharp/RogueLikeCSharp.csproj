@@ -25,6 +25,9 @@
 		<PackageReference Include="RLNET" Version="1.0.6" />
 		<PackageReference Include="RogueSharp" Version="3.0.0" />
 	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="Properties\" />
+	</ItemGroup>
 
 	<!-- Handle font file -->
 

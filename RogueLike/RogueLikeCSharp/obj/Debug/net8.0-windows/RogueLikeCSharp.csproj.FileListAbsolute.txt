@@ -91,9 +91,11 @@ C:\Users\anovelli\source\repos\RogueLike\RogueLikeCSharp\obj\Debug\net8.0-window
 C:\Users\anovelli\source\repos\RogueLike\RogueLikeCSharp\obj\Debug\net8.0-windows\RogueLikeCSharp.AssemblyInfoInputs.cache
 C:\Users\anovelli\source\repos\RogueLike\RogueLikeCSharp\obj\Debug\net8.0-windows\RogueLikeCSharp.AssemblyInfo.cs
 C:\Users\anovelli\source\repos\RogueLike\RogueLikeCSharp\obj\Debug\net8.0-windows\RogueLikeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\anovelli\source\repos\RogueLike\RogueLikeCSharp\obj\Debug\net8.0-windows\RogueLikeCSharp.sourcelink.json
 C:\Users\anovelli\source\repos\RogueLike\RogueLikeCSharp\obj\Debug\net8.0-windows\RogueLik.CC41AFC2.Up2Date
 C:\Users\anovelli\source\repos\RogueLike\RogueLikeCSharp\obj\Debug\net8.0-windows\RogueLikeCSharp.dll
 C:\Users\anovelli\source\repos\RogueLike\RogueLikeCSharp\obj\Debug\net8.0-windows\refint\RogueLikeCSharp.dll
 C:\Users\anovelli\source\repos\RogueLike\RogueLikeCSharp\obj\Debug\net8.0-windows\RogueLikeCSharp.pdb
 C:\Users\anovelli\source\repos\RogueLike\RogueLikeCSharp\obj\Debug\net8.0-windows\RogueLikeCSharp.genruntimeconfig.cache
 C:\Users\anovelli\source\repos\RogueLike\RogueLikeCSharp\obj\Debug\net8.0-windows\ref\RogueLikeCSharp.dll
+C:\Users\anovelli\source\repos\RogueLike\RogueLikeCSharp\bin\Debug\net8.0-windows\RogueLikeCSharp.dll.config
